@@ -7,7 +7,7 @@ venue: Astrophysics Source Code Library, 2014
 date: 2014-01-01
 ---
 
-C++ toolbox for the statistical analysis of galaxy surveys <br>
+C++ toolbox for the statistical analysis of galaxy surveys.<br>
 [[Link](https://github.com/alabatie/BAOlab)]
 <br>
 <br>
