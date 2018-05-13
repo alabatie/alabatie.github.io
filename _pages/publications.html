@@ -1,0 +1,45 @@
+---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+You can also view my publications on my [<a href=https://scholar.google.de/citations?user=qFHzty8AAAAJ>Google Scholar profile</a>].
+<br>
+<br>
+<br>
+
+
+<h1> Journal papers </h1>
+<hr>
+
+{% for post in site.publications reversed %}
+{% if post.tag == "journal" %}
+{% include archive-single-custom.html %}
+{% endif %}
+{% endfor %}
+
+
+<br>
+<br>
+
+<h1> Book chapter </h1>
+<hr>
+{% for post in site.publications reversed %}
+{% if post.tag == "chapter" %}
+{% include archive-single-custom.html %}
+{% endif %}
+{% endfor %}
+<br>
+<br>
+
+
+<h1> Conference proceedings </h1>
+<hr>
+
+{% for post in site.publications reversed %}
+{% if post.tag == "conference" %}
+{% include archive-single-custom.html %}
+{% endif %}
+{% endfor %}
+<br>

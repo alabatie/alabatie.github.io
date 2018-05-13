@@ -1,12 +1,46 @@
 ---
-layout: archive
-title: "Talks and presentations"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+You can view all the places where I've given a talk on this [<a href="/talkmap.html">Map</a>].
+<br>
+<br>
+<br>
+
+
+<h1> Recent talks </h1>
+<hr>
+I share 2 very recent talks on Machine Learning and Deep Learning (unfortunately, due to confidentiality reasons, I cannot share much more from my research among private companies since 2012).
+<br>
+<br>
 
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+{% if post.tag == "recent" %}
+{% include archive-single-custom.html %}
+{% endif %}
 {% endfor %}
+<br>
+<br>
+
+<h1> PhD talks </h1>
+<hr>
+{% for post in site.talks reversed %}
+{% if post.tag == "phd" %}
+{% include archive-single-custom.html %}
+{% endif %}
+{% endfor %}
+<br>
+<br>
+
+
+<h1> Posters </h1>
+<hr>
+
+{% for post in site.talks reversed %}
+{% if post.tag == "poster" %}
+{% include archive-single-custom.html %}
+{% endif %}
+{% endfor %}
+<br>
