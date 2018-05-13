@@ -1,6 +1,7 @@
 ---
 title: "A new method for detecting baryon acoustic oscillations"
 permalink: /publications/2012-a-Moriond
+collection: publications
 author: <b>Antoine Labatie</b>, Jean-Luc Starck, Marc Lachièze-Rey
 venue: 47th Rencontres de Moriond on Cosmology, La Thuile, Italy
 date: 2012-01-01

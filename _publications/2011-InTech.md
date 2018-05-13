@@ -1,5 +1,6 @@
 ---
 title: "Statistical study of the galaxy distribution"
+collection: publications
 permalink: /publications/2011-InTech
 author: <b>Antoine Labatie</b>, Jean-Luc Starck, Marc Lachièze-Rey
 venue: Advances in Modern Cosmology, InTech
