@@ -8,6 +8,6 @@ date: 2012-01-01
 tag: journal
 ---
 
-[[Paper](https://arxiv.org/pdf/1009.1232.pdf)]
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1572312711000499)]
 <br>
 <br>

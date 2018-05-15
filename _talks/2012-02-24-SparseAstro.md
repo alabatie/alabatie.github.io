@@ -3,9 +3,9 @@ title: BAO and SDSS DR7
 collection: talks
 type: "Talk"
 permalink: /talks/2012-02-24-SparseAstro
-venue: ERC SparseAstro workshop, CEA Saclay
+venue: ERC SparseAstro workshop
 date: 2012-02-24
-location: "Paris, France"
+location: "France"
 tag: phd
 ---
 

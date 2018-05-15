@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2010-09-02-CosmoClub
 venue: Cosmo Journal Club, CEA Saclay
 date: 2010-09-02
-location: "Paris, France"
+location: "France"
 tag: phd
 ---
 

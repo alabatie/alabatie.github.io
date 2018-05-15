@@ -7,7 +7,7 @@ author_profile: true
 
 ## Prizes
 
-* **Mayhew Prize** [[Link](https://en.wikipedia.org/wiki/Mayhew_Prize)] awarded by the University of Cambridge for graduating 1st among all applied mathematics students (~100 students) in the Part III of the Mathematical Tripos, regarded as one of the hardest and most intensive mathematics courses in the world [[Link](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos)]. 2008
+* **Mayhew Prize 2008** [[Link](https://en.wikipedia.org/wiki/Mayhew_Prize)] awarded by the University of Cambridge for graduating 1st among all applied mathematics students (~100 students) in the Part III of the Mathematical Tripos, regarded as one of the hardest and most intensive mathematics courses in the world [[Link](https://en.wikipedia.org/wiki/Part_III_of_the_Mathematical_Tripos)]. 2008
 
 ## Scholarships
 
