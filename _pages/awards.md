@@ -17,4 +17,4 @@ author_profile: true
 
 ## Competition ranks
 
-* **Top 5% rank** (41/883, equivalent of Kaggle silver medal) for my first participation in a Kaggle competition during my spare time [[Link](https://github.com/alabatie/Nomad)]. 2018
+* **Top 5% rank** (41/883, equivalent of Kaggle silver medal) for my first participation in a Kaggle competition [[Link](https://github.com/alabatie/Nomad)]. 2018
