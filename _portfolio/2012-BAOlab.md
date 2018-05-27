@@ -1,10 +1,9 @@
 ---
 title: "BAOlab: baryon acoustic oscillations software"
 collection: portfolio
-permalink: /projects/2014-BAOlab
+permalink: /projects/2012-BAOlab
 author: <b>Antoine Labatie</b>, Jean-Luc Starck, Marc Lachièze-Rey
-venue: Astrophysics Source Code Library
-date: 2014-01-01
+date: 2012-01-01
 ---
 
 C++ toolbox for the statistical analysis of galaxy surveys.<br>
