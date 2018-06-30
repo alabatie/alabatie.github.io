@@ -13,8 +13,3 @@ author_profile: true
 
 * **CFR grant** awarded by CEA Saclay for full funding of PhD based on academic excellence. 2009
 * **Cambridge European Trust scholarship** awarded by the University of Cambridge. 2007
-
-
-## Competition ranks
-
-* **Top 5% rank** (41/883) in Kaggle competition Nomad2018 [[Link](https://github.com/alabatie/Nomad)]. 2018
