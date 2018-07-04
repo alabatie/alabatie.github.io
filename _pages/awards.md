@@ -7,7 +7,7 @@ author_profile: true
 
 ## Prizes
 
-* **Mayhew Prize** [[Link](https://en.wikipedia.org/wiki/Mayhew_Prize)] awarded by the University of Cambridge in 2008 for graduating 1st among all applied mathematics students (~ 100 elite students) in the Part III of the Mathematical Tripos. 2008
+* **Mayhew Prize** awarded by the University of Cambridge in 2008 for graduating 1st among all applied mathematics students (~ 100 elite students) in the Part III of the Mathematical Tripos. 2008 [[Link](https://en.wikipedia.org/wiki/Mayhew_Prize)]
 
 ## Scholarships
 
