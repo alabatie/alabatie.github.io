@@ -12,7 +12,7 @@ redirect_from:
 
 # Background
 
-- Since the beginning of 2017, I work as the main A.I. scientist at the AgTech startup PEAT in Berlin. PEAT created the Smartphone App [Plantix](https://plantix.net/), which provides Image Recognition (currently recognizes ~290 crop diseases with high accuracy) and guidance for small-scale farmers. If you want more information on Artificial Intelligence at PEAT, I presented many aspects at the gathering Berlin A.I.[[Slides](/files/2018-05-23-BerlinAI.pdf)]. From 2012 to 2017, I was also A.I. scientist in 2 CleanTech startups Eqinov and Smart Impulse in Paris.
+- Since the beginning of 2017, I work as the main A.I. scientist at the AgTech startup PEAT in Berlin. PEAT created the Smartphone App [Plantix](https://plantix.net/), which provides Image Recognition (currently recognizes ~290 crop diseases with high accuracy) and guidance for small-scale farmers. If you want more information on Artificial Intelligence at PEAT, I presented many aspects at the gathering Berlin A.I. [[Slides](/files/2018-05-23-BerlinAI.pdf)]. From 2012 to 2017, I was also A.I. scientist in 2 CleanTech startups Eqinov and Smart Impulse in Paris.
 
 - In these positions, I faced very difficult problems in the fields of image recognition, time-series analysis and optimal control, that I solved using the latest A.I. advances, in particular deep learning (CNNs, RNNs, FFNs, DQNs).
 
