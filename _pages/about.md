@@ -12,7 +12,7 @@ redirect_from:
 
 # Background
 
-- Since September 2018, I work on my own research projetcs and I provide teaching in A.I. Previously, I worked as the main A.I. scientist at the AgTech startup PEAT [[Slides of my presentation at Berlin A.I.](/files/2018-05-23-BerlinAI.pdf)]. I also worked as A.I. scientist in 2 CleanTech startups in Paris from 2012 to 2017.
+- From Feb 2017 to Aug 2018, I worked as the main A.I. scientist in the AgTech startup PEAT [[Slides of my presentation at Berlin A.I.](/files/2018-05-23-BerlinAI.pdf)]. I also worked as A.I. scientist in 2 CleanTech startups in Paris from 2012 to 2017.
 
 - Concerning my education, I went through the very selective French system of Grandes Ecoles. I did my last year as an exchange student at the University of Cambridge. There I graduated 1st among all applied mathematics students (~ 100 elite students) in the Part III of the Mathematical Tripos 2008 [[Wikipedia page with list of Mayhew Prize winners](https://en.wikipedia.org/wiki/Mayhew_Prize)]. The next year, I graduated from the Master "Mathematics, Vision, Learning" at ENS Cachan, and finally I graduated from a Ph.D. in Astrostatistics under the supervision of [Jean-Luc Starck](http://jstarck.cosmostat.org/).
 
