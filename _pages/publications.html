@@ -9,6 +9,16 @@ You can also view my publications on my [<a href=https://scholar.google.de/citat
 <br>
 <br>
 
+<h1> Preprints </h1>
+<hr>
+
+{% for post in site.publications reversed %}
+{% if post.tag == "preprint" %}
+{% include archive-single-custom.html %}
+{% endif %}
+{% endfor %}
+
+
 
 <h1> Journal papers </h1>
 <hr>

@@ -38,8 +38,9 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-
-    {% if post.collection == 'talks' %}
+    {% if post.tag == 'preprint' %}
+    <p> {{ post.author }}, {{ post.date | default: "1900" | date: "%Y" }} </p>
+    {% elsif post.collection == 'talks' %}
     <p> {{ post.type }}, {{ post.venue }}, {{ post.location }}, {{ post.date | default: "1900" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
     <p>{{ post.author }}, {{ post.venue }}, {{ post.date | default: "1900" | date: "%Y" }} </p>

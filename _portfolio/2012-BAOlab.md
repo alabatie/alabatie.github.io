@@ -4,6 +4,7 @@ collection: portfolio
 permalink: /projects/2012-BAOlab
 author: <b>Antoine Labatie</b>, Jean-Luc Starck, Marc Lachièze-Rey
 date: 2012-01-01
+venue: GitHub
 ---
 
 C++ toolbox for the statistical analysis of galaxy surveys.<br>
