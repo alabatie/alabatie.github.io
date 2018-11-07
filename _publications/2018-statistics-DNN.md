@@ -1,5 +1,5 @@
 ---
-title: "Characterizing deep neural networks statistically: when is an architecture pathological or well-behaved ?"
+title: "Characterizing Well-behaved vs. Pathological Deep Neural Network Architectures"
 collection: preprints
 permalink: /preprints/Labatie18-DNN-statistics
 author: <b>Antoine Labatie</b>
