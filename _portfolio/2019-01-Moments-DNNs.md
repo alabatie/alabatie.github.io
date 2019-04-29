@@ -1,5 +1,5 @@
 ---
-title: "Moments-DNNs: Code for the paper “Characterizing Well-behaved vs. Pathological Deep Neural Networks“"
+title: "Moments-DNNs: code for the paper “characterizing well-behaved vs. pathological deep neural networks“"
 collection: portfolio
 permalink: /projects/2019-01-moments-dnns
 author: <b>Antoine Labatie</b>

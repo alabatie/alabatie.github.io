@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Antoine Labatie"
 title_separator          : "-"
 name                     : &name "Antoine Labatie"
-description              : &description "A.I. Research Scientist"
+description              : &description "AI Research Scientist"
 url                      : https://alabatie.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alabatie/alabatie.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Antoine Labatie"
   avatar           : "antoine_labatie_bw.jpg"
-  bio              : "A.I. Research Scientist"
+  bio              : "AI Research Scientist"
   location         : "Berlin"
   employer         :
   googlescholar    : "https://scholar.google.de/citations?view_op=list_works&hl=en&user=qFHzty8AAAAJ"
