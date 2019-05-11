@@ -4,5 +4,5 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-antoine [dot] labatie [at] centraliens [dot] net
+antoine [at] labatie [dot] ai
 
