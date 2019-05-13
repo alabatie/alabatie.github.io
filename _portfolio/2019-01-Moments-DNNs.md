@@ -7,6 +7,6 @@ date: 2019-01-01
 venue: GitHub
 ---
 
-[[Link](https://github.com/labatie-ai/moments-dnns)] to readme and source.
+[[Link](https://github.com/alabatie/moments-dnns)] to readme and source.
 <br>
 <br>
