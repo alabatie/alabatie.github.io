@@ -5,9 +5,9 @@ permalink: /proceedings-AI/moments-dnns
 author: <b>Antoine Labatie</b>
 date: 2019-01-25
 tag: conference-AI
-venue: To appear in 36th International Conference on Machine Learning
+venue: 36th International Conference on Machine Learning (ICML 2019)
 ---
 
-[[Paper](https://arxiv.org/abs/1811.03087)]
+[[Paper](http://proceedings.mlr.press/v97/labatie19a.html)]
 <br>
 <br>
