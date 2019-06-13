@@ -12,7 +12,7 @@ redirect_from:
 
 # Background
 
-- Since Sep 2018, I work as independent AI research scientist under the trademark "Labatie-AI". During my research, I developed a unifying framework to characterize the broad spectrum of pathologies in deep neural networks. This led to a [single-author paper](http://proceedings.mlr.press/v97/labatie19a.html) published in ICML 2019.
+- Since Sep 2018, I work as independent AI research scientist. During my research, I developed a unifying framework to characterize the broad spectrum of pathologies in deep neural networks. This led to a [single-author paper](http://proceedings.mlr.press/v97/labatie19a.html) published in ICML 2019.
 
 - From Feb 2017 to Aug 2018, I worked as the lead AI research engineer in the AgTech startup PEAT [[Slides of my presentation at Berlin AI](/files/2018-05-23-BerlinAI.pdf)]. I also worked as AI research engineer in 2 CleanTech startups in Paris from 2012 to 2017.
 
