@@ -6,7 +6,19 @@ author_profile: true
 
 <br>
 
+<h1> Open-Source in AI </h1>
+<hr>
 {% for post in site.portfolio reversed %}
+{% if post.tag == "recent" %}
 {% include archive-single-custom.html %}
 {% endfor %}
+<br>
 
+
+<h1> Open-Source in Astrostatistics </h1>
+<hr>
+{% for post in site.portfolio reversed %}
+{% if post.tag == "phd" %}
+{% include archive-single-custom.html %}
+{% endfor %}
+<br>
