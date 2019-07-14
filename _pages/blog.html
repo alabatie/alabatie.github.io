@@ -1,0 +1,14 @@
+---
+title: "Blog"
+permalink: /blog/
+author_profile: true
+---
+<br>
+
+<h1> Posts in AI </h1>
+<hr>
+{% for post in site.blog reversed %}
+{% include archive-single-custom.html %}
+{% endfor %}
+<br>
+

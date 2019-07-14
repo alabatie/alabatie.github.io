@@ -23,14 +23,3 @@ author_profile: true
 {% endif %}
 {% endfor %}
 <br>
-
-
-<h1> Posters in Astrostatistics </h1>
-<hr>
-
-{% for post in site.talks reversed %}
-{% if post.tag == "poster" %}
-{% include archive-single-custom.html %}
-{% endif %}
-{% endfor %}
-<br>
