@@ -6,8 +6,6 @@ main:
   - title: "Talks"
     url: /talks/  
 
-  - title: "Blog"
-    url: /blog/      
     
   - title: "Open-Source"
     url: /open-source/
