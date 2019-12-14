@@ -1,5 +1,5 @@
 ---
-title: "The clustering of galaxies in the sdss-iii baryon oscillation spectroscopic survey: baryon acoustic oscillations in the data release 9 spectroscopic galaxy sample"
+title: "The Clustering of Galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: Baryon Acoustic Oscillations in the Data Release 9 Spectroscopic Galaxy Sample"
 collection: publications
 permalink: /publications/2012-f-MNRAS
 author: Lauren Anderson et al.

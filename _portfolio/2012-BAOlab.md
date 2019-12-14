@@ -1,5 +1,5 @@
 ---
-title: "BAOlab: baryon acoustic oscillations software"
+title: "BAOlab: Baryon Acoustic Oscillations Software"
 collection: portfolio
 permalink: /projects/2012-BAOlab
 author: <b>Antoine Labatie</b>, Jean-Luc Starck, Marc Lachièze-Rey

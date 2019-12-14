@@ -1,5 +1,5 @@
 ---
-title: "Statistical study of the galaxy distribution"
+title: "Statistical Study of the Galaxy Distribution"
 collection: publications
 permalink: /publications/2011-InTech
 author: <b>Antoine Labatie</b>, Jean-Luc Starck, Marc Lachièze-Rey

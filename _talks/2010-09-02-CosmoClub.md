@@ -1,5 +1,5 @@
 ---
-title: Uncertainty in correlation function estimators and BAO detection in current galaxy surveys
+title: Uncertainty in Correlation Function Estimators and BAO Detection in Current Galaxy Surveys
 collection: talks
 type: "Talk"
 permalink: /talks/2010-09-02-CosmoClub

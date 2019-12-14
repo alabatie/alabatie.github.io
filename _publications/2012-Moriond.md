@@ -1,5 +1,5 @@
 ---
-title: "A new method for detecting baryon acoustic oscillations"
+title: "A New Method for Detecting Baryon Acoustic Oscillations"
 collection: publications
 permalink: /publications/2012-a-Moriond
 author: <b>Antoine Labatie</b>, Jean-Luc Starck, Marc Lachièze-Rey

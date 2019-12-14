@@ -1,5 +1,5 @@
 ---
-title: "Uncertainty in 2-point correlation function estimators and baryon acoustic oscillation detection in galaxy surveys"
+title: "Uncertainty in Two-Point Correlation Function Estimators and Baryon Acoustic Oscillation Detection in Galaxy Surveys"
 collection: publications
 permalink: /publications/2012-b-StatMet
 author: <b>Antoine Labatie</b>, Jean-Luc Starck, Marc Lachièze-Rey

@@ -1,5 +1,5 @@
 ---
-title: "Characterizing well-behaved vs. pathological deep neural networks"
+title: "Characterizing Well-Behaved vs. Pathological Deep Neural Networks"
 collection: proceedings-AI
 permalink: /proceedings-AI/moments-dnns
 author: <b>Antoine Labatie</b>

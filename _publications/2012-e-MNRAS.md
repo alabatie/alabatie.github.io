@@ -1,5 +1,5 @@
 ---
-title: "The clustering of galaxies in the sdss-iii baryon oscillation spectroscopic survey: cosmological implications of the large-scale two-point correlation function"
+title: "The Clustering of Galaxies in the SDSS-III Baryon Oscillation Spectroscopic Survey: Cosmological Implications of the Large-Scale Two-Point Correlation Function"
 collection: publications
 permalink: /publications/2012-e-MNRAS
 author: Ariel Sanchez et al.
