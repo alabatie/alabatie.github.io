@@ -81,7 +81,7 @@ author:
   name             : "Antoine Labatie"
   avatar           : "antoine_labatie_bw.jpg"
   bio              : "AI Research Scientist"
-  location         : "London"
+  location         :
   employer         :
   googlescholar    : "https://scholar.google.de/citations?view_op=list_works&hl=en&user=qFHzty8AAAAJ"
   email            : antoinel@graphcore.ai
