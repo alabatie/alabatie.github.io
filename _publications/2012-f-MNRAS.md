@@ -8,6 +8,6 @@ date: 2012-01-01
 tag: journal-astro
 ---
 
-[[Paper](https://arxiv.org/abs/1203.6594)]
+[[Paper](https://academic.oup.com/mnras/article/441/1/24/978049)]
 <br>
 <br>
