@@ -8,6 +8,6 @@ tag: conference-AI
 venue: 36th International Conference on Machine Learning
 ---
 
-[[Paper](https://arxiv.org/abs/1811.03087)]
+[[Paper](http://proceedings.mlr.press/v97/labatie19a.html)]
 <br>
 <br>
