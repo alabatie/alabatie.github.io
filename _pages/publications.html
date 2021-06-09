@@ -9,6 +9,18 @@ You can also view my publications on my [<a href=https://scholar.google.de/citat
 <br>
 <br>
 
+<h1> Preprints in AI </h1>
+<hr>
+
+{% for post in site.publications reversed %}
+{% if post.tag == "preprint-AI" %}
+{% include archive-single-custom.html %}
+{% endif %}
+{% endfor %}
+
+<br>
+
+
 <h1> Conference proceedings in AI </h1>
 <hr>
 
