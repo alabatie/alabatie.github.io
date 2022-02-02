@@ -4,4 +4,4 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-antoinel [at] graphcore [dot] ai
+antoine [dot] labatie [at] centraliens [dot] net
