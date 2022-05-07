@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-- I am an AI research scientist passionate about the intellectual challenges of understanding AI systems and advancing AI research. 
-- I am even more passionate about the ethical and societal implications of the AI revolution. I sincerely wish to devote my skills to meaningful projects that will bring sustainable, harmonious and fair solutions to the great challenges ahead of us.<br>
+- I am an AI research scientist passionate about understanding AI systems and advancing AI research. 
+- I am even more passionate about the ethical and societal implications of the AI revolution. I wish to devote my skills to meaningful projects that will bring sustainable, harmonious and fair solutions to the great challenges ahead of us.<br>
