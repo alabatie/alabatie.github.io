@@ -1,5 +1,5 @@
 ---
-title: "https://arxiv.org/abs/2508.10894"
+title: "MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and Multispectral Earth Observation Data"
 collection: preprints-AI
 permalink: /preprints-AI/maestro
 author: <b>Antoine Labatie</b>, Michael Vaccaro, Nina Lardiere, Anatol Garioud, Nicolas Gonthier
